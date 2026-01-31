@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function initialiseRepo() {
-  git init $1
+  git init "$1"
 }
 
 
